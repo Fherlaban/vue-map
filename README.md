@@ -1,4 +1,5 @@
 # vue-map
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -19,3 +20,6 @@ npm run build
 ```
 npm run lint
 ```
+=======
+Practice Vue with a Map API
+>>>>>>> origin/master
